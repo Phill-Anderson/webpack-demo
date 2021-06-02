@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Frijole&display=swap");
+@font-face {
+  font-family: "Frijole";
+  src: url("./Frijole-Regular.ttf") format("ttf"),
+    url("./OdibeeSans-Regular.ttf") format("ttf");
+  font-weight: 600;
+  font-style: normal;
+}
+.hello {
+  color: red;
+  font-family: "Frijole", cursive;
+  background: url("./icon.png");
+}
